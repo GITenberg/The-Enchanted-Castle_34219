@@ -25,6 +25,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/407
     wikipedia: http://en.wikipedia.org/wiki/E._Nesbit
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/34219#The-Enchanted-Castle
 gutenberg_issued: '2010-11-06'
 gutenberg_type: Text
 identifiers:
