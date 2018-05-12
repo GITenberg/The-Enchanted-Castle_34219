@@ -1,0 +1,47 @@
+_repo: The-Enchanted-Castle_34219
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Millar, H. R. (Harold Robert)
+    aliases:
+    - Millar, Harold Robert
+    - Millar, H.R.
+    birthdate: 1869
+    deathdate: 1942
+    gutenberg_agent_id: '7296'
+    url: http://www.gutenberg.org/2009/agents/7296
+covers:
+- cover_type: archival
+  image_path: 34219-h/images/coverpage.jpg
+creator:
+  author:
+    agent_name: Nesbit, E. (Edith)
+    aliases:
+    - Nesbit, Edith
+    - Bland, Edith Nesbit
+    birthdate: 1858
+    deathdate: 1924
+    gutenberg_agent_id: '407'
+    url: http://www.gutenberg.org/2009/agents/407
+    wikipedia: http://en.wikipedia.org/wiki/E._Nesbit
+description: ''
+gutenberg_issued: '2010-11-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '34219'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fantasy fiction, English'
+- !lcc 'PZ'
+- !lcsh 'Brothers and sisters -- Juvenile fiction'
+- !lcsh 'Great Britain -- History -- Edward VII, 1901-1910 -- Juvenile fiction'
+- !lcsh 'Magic -- Juvenile fiction'
+- !lcsh 'Castles -- Juvenile fiction'
+- !lcsh 'Rings -- Juvenile fiction'
+- !lcsh 'Friendship -- Juvenile fiction'
+- !lcsh 'Wishes -- Juvenile fiction'
+title: The Enchanted Castle
+url: http://www.gutenberg.org/ebooks/34219
